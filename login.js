@@ -16,7 +16,7 @@ function login() {
  
     } else if(username.value == "admin" && pass.value == "123456"){
  
-        window.location.href="welcome.html";
+        window.location.href="https://florr.io";
  
     } else {
  
